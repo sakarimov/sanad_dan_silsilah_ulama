@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Konsep Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
+  description: "Wadah Sosialisasi Segala hal terkait Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
+  navbar:
+    #logo: img/Logo MDTA.png
+    search: true
+    right:
+    #  - about.qmd
+      - icon: github
+        href: https://github.com/sakarimov/sanad_dan_silsilah_ulama
+    #  - icon: twitter
+    #    href: https://twitter.com/siberpro
+    #  - icon: linkedin
+    #    href: https://linkedin.com/in/siberpro
+  sidebar:
+    style: floating
+    background: light
+    pinned: true
+    border: true
+    collapse-level: 0
+    contents: auto
+        
+  back-to-top-navigation: true
+  reader-mode: true
+format:
+  html:
+    grid:
+      body-width: 1600px
+    theme: sandstone
+    css: styles.css
+    toc: true
+    toc-depth: 4
+    toc-location: right
+    title-block-categories: false
+execute:
+  freeze: auto

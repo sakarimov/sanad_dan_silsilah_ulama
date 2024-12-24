@@ -1,0 +1,10 @@
+/.quarto/
+**_files/**
+**.mp4
+**.webm
+**.blend
+**.blend1
+_site
+proker.qmd
+journal.qmd
+local asset/

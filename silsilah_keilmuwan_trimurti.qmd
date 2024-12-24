@@ -1,0 +1,68 @@
+---
+title: silsilah keilmuan trimurti gontor
+description: silsilah keilmuan trimurti gontor dengan sumber dari Gus Fata
+date: 12/24/2024
+author: Sulthan A. Karimov
+categories: [silsilah, pedigree, sanad]
+draft: false
+show: true
+freeze: true
+---
+
+```{mermaid}
+flowchart TD
+    %% Start from the bottom of the lineage
+    Sayyiduna_Rasulullah_SAW("Sayyiduna Rasulullah SAW") --> Ibnu_Umar("Ibnu Umar (73 H)")
+    Ibnu_Umar --> Imam_Nafi("Imam Nafi (117 H)")
+    Imam_Nafi --> Imam_Malik("Al-Imam al-A'dzhom Malik bin Anas (Imam Malik) (179 H)")
+    Imam_Malik --> Imam_Syafii("Al-Imam al-A'dzhom Muhammad bin Idris asy-Syafi'i (Imam Syafi’i) (204 H)")
+    Imam_Syafii --> Ibn_Muzani("Al-Imam Ismail bin Yahya al-Muzani (264 H)")
+    Ibn_Muzani --> Abil_Qosim("Syaikh Abil Qosim (Ustman bin Sa’id bin Basyar al-Anmathi) (288 H)")
+    Abil_Qosim --> Abil_Abbas("Syaikh Abil Abbas (Ahmad bin Syuraij al-Bagdadi) (306)")
+    Abil_Abbas --> Abi_Ishaq_Marwazi("Syaikh Abi Ishaq (Ibrahim bin Ahmad al-Marwazi) (340 H)")
+    Abi_Ishaq_Marwazi --> Abi_Hasan("Syaikh Abil Hasan (Muhammad bin Ali al-Masirji) (384 H)")
+    Abi_Hasan --> Al_Qodhi("Syaikh al-Qodhi Abi al-Thayyib (Thahir bin Abdullah al-Thabri) (450 H)")
+    Al_Qodhi --> Abi_Ishaq_Syaerozi("Syaikh Abi Ishaq (Ibrahim Syaerozi) (476 H)")
+    Abi_Ishaq_Syaerozi --> Abi_Ali("Syaikh Abi Ali al-Fariqi (528 H)")
+    Abi_Ali --> Abi_Saad("Syaikh Abi Sa’ad (Abdullah bin Abi ‘Ashrun) (585 H)")
+    Abi_Saad --> Abdurrahman_Ayah("Syaikh Abdurrahman (ayah Ibnu Shalah) (618 H)")
+    Abdurrahman_Ayah --> Abi_Omar("Syaikh Abi Umar (Ustman bin Abdurrahman/Ibnu Shalah asy-Syahruzuri) (643 H)")
+    Abi_Omar --> Abi_Hafsh("Syaikh Abi Hafsh (Umar bin As’ad az-Zai’i)")
+    Abi_Hafsh --> Imam_Nawawi("Al-Imam Yahya an-Nawawi al-Dimasyqi (676 H)")
+    Imam_Nawawi --> Alauddin("Syaikh ‘Alauddin bin al-‘Atthar")
+    Alauddin --> Sirajuddin("Syaikh Sirajuddin al-Bulqini (805 H)")
+    Sirajuddin --> Abdurrahim("Syaikh Abdurrahim bin Husain al-‘Iraqi (806 H)")
+    Abdurrahim --> Al_Wali("Syaikh Al-Wali Ahmad bin Abdurrahim al-‘Iraqi")
+    Al_Wali --> Syamsuddin("Syaikh Syamsuddin Al-Yaquti")
+    Syamsuddin --> Jalaluddin_Al_Bulqini("Syaikh Jalaluddin Al-Bulqini (824 H)")
+    Jalaluddin_Al_Bulqini --> Jalaluddin_al_Mahalli("Syaikh Jalaludin al-Mahalli (864 H)")
+    Jalaluddin_al_Mahalli --> Zakariya_al_Anshari("Syaikhul Islam Zakariya al-Anshari (929 H)")
+    Zakariya_al_Anshari --> Khothib_Asy_Syirbini("Syaikh Al-Khothib Asy-Syirbini")
+    Khothib_Asy_Syirbini --> Romli_As_Shoghir("Syaikh Ar-Romli As-Shoghir")
+    Romli_As_Shoghir --> Romli_Al_Kabir("Syaikh Ar-Romli Al-Kabir")
+    Romli_Al_Kabir --> Ahmad_Bin_Hajar_al_Haitami("Al-Muhaqqiq Syaikh Ahmad bin Hajar al-Haitami (964)")
+    Ahmad_Bin_Hajar_al_Haitami --> Muhammad_al_Qosriy("Syaikh Muhammad al-Qosriy")
+    Muhammad_al_Qosriy --> Ali_az_Ziyadi("Syaikh Ali az-Ziyadi (1024 H)")
+    Ali_az_Ziyadi --> Sulthan_Ahmad_al_Mazzahi("Syaikh Sulthan bin Ahmad al-Mazzahi")
+    Sulthan_Ahmad_al_Mazzahi --> Ahmad_al_Bisbisyi("Syaikh Ahmad al-Bisbisyi (1096 H)")
+    Ahmad_al_Bisbisyi --> Ahmad_al_Khulaifi("Syaikh Ahmad al-Khulaifi")
+    Ahmad_al_Khulaifi --> Muhammad_b_Salim_Hifni("Al-Ustadz Muhammad bin Salim Hifni")
+    Muhammad_b_Salim_Hifni --> Abdullah_as_Syarqowi("Syaikh Abdullah as-Syarqowi")    
+    Abdullah_as_Syarqowi --> Utsman_Dimyati("Syaikh Utsman bin Hasan Dimyati")
+    Utsman_Dimyati --> Ahmad_bin_Zaini_Dahlan("Sayyid Ahmad bin Zaini Dahlan (1304 H)")
+    Ahmad_bin_Zaini_Dahlan --> Abi_Bakar_Syatho("Sayyid Abi Bakar Syatho (1310 H)") 
+    Abi_Bakar_Syatho --> Mahfudz_Termas("Syaikh Mahfudz Termas (1338 H)")   
+    Mahfudz_Termas --> Mansur_Josari("Kyai Mansur Josari (1943)")
+    Mansur_Josari --> Trimuti_Gontor("Trimuti Gontor (Kyai Ahmad Sahal, Kyai Zainuddin Fanani, Kyai Imam Zarkasyi)")
+
+    %% Style adjustments for clarity
+    classDef imam fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef sheikh fill:#ff9,stroke:#333,stroke-width:2px;
+    classDef modern fill:#9f9,stroke:#333,stroke-width:2px;
+
+    %% Assigning styles
+    class Imam_Syafii,Imam_Malik,Imam_Nawawi imam;
+    class Trimuti_Gontor,Mansur_Josari modern;
+```
+
+
