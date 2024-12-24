@@ -2,8 +2,8 @@ project:
   type: website
 
 website:
-  title: "Konsep Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
-  description: "Wadah Sosialisasi Segala hal terkait Ikhtibar Akbar 2 Dekade MDTA Fisabilillah"
+  title: "Sanad dan Silsilah Ulama"
+  description: "Kompilasi Sanad dan Silsilah Ulama dari berbagai sumber"
   navbar:
     #logo: img/Logo MDTA.png
     search: true
