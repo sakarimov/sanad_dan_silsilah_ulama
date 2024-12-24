@@ -1,0 +1,29 @@
+[
+  {
+    "objectID": "silsilah_keilmuwan_trimurti.html",
+    "href": "silsilah_keilmuwan_trimurti.html",
+    "title": "silsilah keilmuan trimurti gontor",
+    "section": "",
+    "text": "flowchart TD\n    %% Start from the bottom of the lineage\n    Sayyiduna_Rasulullah_SAW(\"Sayyiduna Rasulullah SAW\") --&gt; Ibnu_Umar(\"Ibnu Umar (73 H)\")\n    Ibnu_Umar --&gt; Imam_Nafi(\"Imam Nafi (117 H)\")\n    Imam_Nafi --&gt; Imam_Malik(\"Al-Imam al-A'dzhom Malik bin Anas (Imam Malik) (179 H)\")\n    Imam_Malik --&gt; Imam_Syafii(\"Al-Imam al-A'dzhom Muhammad bin Idris asy-Syafi'i (Imam Syafi’i) (204 H)\")\n    Imam_Syafii --&gt; Ibn_Muzani(\"Al-Imam Ismail bin Yahya al-Muzani (264 H)\")\n    Ibn_Muzani --&gt; Abil_Qosim(\"Syaikh Abil Qosim (Ustman bin Sa’id bin Basyar al-Anmathi) (288 H)\")\n    Abil_Qosim --&gt; Abil_Abbas(\"Syaikh Abil Abbas (Ahmad bin Syuraij al-Bagdadi) (306)\")\n    Abil_Abbas --&gt; Abi_Ishaq_Marwazi(\"Syaikh Abi Ishaq (Ibrahim bin Ahmad al-Marwazi) (340 H)\")\n    Abi_Ishaq_Marwazi --&gt; Abi_Hasan(\"Syaikh Abil Hasan (Muhammad bin Ali al-Masirji) (384 H)\")\n    Abi_Hasan --&gt; Al_Qodhi(\"Syaikh al-Qodhi Abi al-Thayyib (Thahir bin Abdullah al-Thabri) (450 H)\")\n    Al_Qodhi --&gt; Abi_Ishaq_Syaerozi(\"Syaikh Abi Ishaq (Ibrahim Syaerozi) (476 H)\")\n    Abi_Ishaq_Syaerozi --&gt; Abi_Ali(\"Syaikh Abi Ali al-Fariqi (528 H)\")\n    Abi_Ali --&gt; Abi_Saad(\"Syaikh Abi Sa’ad (Abdullah bin Abi ‘Ashrun) (585 H)\")\n    Abi_Saad --&gt; Abdurrahman_Ayah(\"Syaikh Abdurrahman (ayah Ibnu Shalah) (618 H)\")\n    Abdurrahman_Ayah --&gt; Abi_Omar(\"Syaikh Abi Umar (Ustman bin Abdurrahman/Ibnu Shalah asy-Syahruzuri) (643 H)\")\n    Abi_Omar --&gt; Abi_Hafsh(\"Syaikh Abi Hafsh (Umar bin As’ad az-Zai’i)\")\n    Abi_Hafsh --&gt; Imam_Nawawi(\"Al-Imam Yahya an-Nawawi al-Dimasyqi (676 H)\")\n    Imam_Nawawi --&gt; Alauddin(\"Syaikh ‘Alauddin bin al-‘Atthar\")\n    Alauddin --&gt; Sirajuddin(\"Syaikh Sirajuddin al-Bulqini (805 H)\")\n    Sirajuddin --&gt; Abdurrahim(\"Syaikh Abdurrahim bin Husain al-‘Iraqi (806 H)\")\n    Abdurrahim --&gt; Al_Wali(\"Syaikh Al-Wali Ahmad bin Abdurrahim al-‘Iraqi\")\n    Al_Wali --&gt; Syamsuddin(\"Syaikh Syamsuddin Al-Yaquti\")\n    Syamsuddin --&gt; Jalaluddin_Al_Bulqini(\"Syaikh Jalaluddin Al-Bulqini (824 H)\")\n    Jalaluddin_Al_Bulqini --&gt; Jalaluddin_al_Mahalli(\"Syaikh Jalaludin al-Mahalli (864 H)\")\n    Jalaluddin_al_Mahalli --&gt; Zakariya_al_Anshari(\"Syaikhul Islam Zakariya al-Anshari (929 H)\")\n    Zakariya_al_Anshari --&gt; Khothib_Asy_Syirbini(\"Syaikh Al-Khothib Asy-Syirbini\")\n    Khothib_Asy_Syirbini --&gt; Romli_As_Shoghir(\"Syaikh Ar-Romli As-Shoghir\")\n    Romli_As_Shoghir --&gt; Romli_Al_Kabir(\"Syaikh Ar-Romli Al-Kabir\")\n    Romli_Al_Kabir --&gt; Ahmad_Bin_Hajar_al_Haitami(\"Al-Muhaqqiq Syaikh Ahmad bin Hajar al-Haitami (964)\")\n    Ahmad_Bin_Hajar_al_Haitami --&gt; Muhammad_al_Qosriy(\"Syaikh Muhammad al-Qosriy\")\n    Muhammad_al_Qosriy --&gt; Ali_az_Ziyadi(\"Syaikh Ali az-Ziyadi (1024 H)\")\n    Ali_az_Ziyadi --&gt; Sulthan_Ahmad_al_Mazzahi(\"Syaikh Sulthan bin Ahmad al-Mazzahi\")\n    Sulthan_Ahmad_al_Mazzahi --&gt; Ahmad_al_Bisbisyi(\"Syaikh Ahmad al-Bisbisyi (1096 H)\")\n    Ahmad_al_Bisbisyi --&gt; Ahmad_al_Khulaifi(\"Syaikh Ahmad al-Khulaifi\")\n    Ahmad_al_Khulaifi --&gt; Muhammad_b_Salim_Hifni(\"Al-Ustadz Muhammad bin Salim Hifni\")\n    Muhammad_b_Salim_Hifni --&gt; Abdullah_as_Syarqowi(\"Syaikh Abdullah as-Syarqowi\")    \n    Abdullah_as_Syarqowi --&gt; Utsman_Dimyati(\"Syaikh Utsman bin Hasan Dimyati\")\n    Utsman_Dimyati --&gt; Ahmad_bin_Zaini_Dahlan(\"Sayyid Ahmad bin Zaini Dahlan (1304 H)\")\n    Ahmad_bin_Zaini_Dahlan --&gt; Abi_Bakar_Syatho(\"Sayyid Abi Bakar Syatho (1310 H)\") \n    Abi_Bakar_Syatho --&gt; Mahfudz_Termas(\"Syaikh Mahfudz Termas (1338 H)\")   \n    Mahfudz_Termas --&gt; Mansur_Josari(\"Kyai Mansur Josari (1943)\")\n    Mansur_Josari --&gt; Trimuti_Gontor(\"Trimuti Gontor (Kyai Ahmad Sahal, Kyai Zainuddin Fanani, Kyai Imam Zarkasyi)\")\n\n    %% Style adjustments for clarity\n    classDef imam fill:#f9f,stroke:#333,stroke-width:2px;\n    classDef sheikh fill:#ff9,stroke:#333,stroke-width:2px;\n    classDef modern fill:#9f9,stroke:#333,stroke-width:2px;\n\n    %% Assigning styles\n    class Imam_Syafii,Imam_Malik,Imam_Nawawi imam;\n    class Trimuti_Gontor,Mansur_Josari modern;\n\n\n\n\n\n\n\n\n\n Back to top",
+    "crumbs": [
+      "silsilah keilmuan trimurti gontor"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n\n\n Back to top",
+    "crumbs": [
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "sanad",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n\n\n Back to top"
+  }
+]
